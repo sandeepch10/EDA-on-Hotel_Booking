@@ -1,1 +1,2 @@
 # EDA-on-Hotel_Booking
+This project involves exploratory data analysis (EDA) and visualization of a hotel booking dataset using Python (Pandas, Matplotlib, Seaborn), The analysis covers data wrangling, correlation analysis, and key insights into booking patterns, cancellation rates, and pricing strategies. The project demonstrates how dynamic visualizations and data-driven insights can support better decision-making in the hospitality industry.
